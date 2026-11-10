@@ -1,3 +1,4 @@
+% MATLAB source code
 clc                                 % To clear the command window
 clear                              % To clear the workspace
 close all;
