@@ -1,3 +1,4 @@
 Identify MATLAB source files
 
 *.m linguist-language=MATLAB
+*.py linguist-language=Python
