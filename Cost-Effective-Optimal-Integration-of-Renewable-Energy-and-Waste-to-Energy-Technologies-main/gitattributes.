@@ -1,5 +1,3 @@
 # Recognize MATLAB source files
 *.m linguist-language=MATLAB linguist-detectable=true
 
-# Recognize Python source files
-*.py linguist-language=Python linguist-detectable=true
