@@ -1,0 +1,3 @@
+Identify MATLAB source files
+
+*.m linguist-language=MATLAB
