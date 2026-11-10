@@ -153,6 +153,32 @@ To explore and execute the project, you will need:
 5. Ensure that the input data files and MATLAB functions are accessible through the MATLAB path.
 
 6. Open and execute the main MATLAB script to initiate the simulation and optimization process.
+## Repository Architecture
+
+```text
+Cost-Effective-Optimal-Integration/
+│
+├── README.md
+├── LICENSE
+│
+├── data/
+│   └── datasets/
+│
+├── src/
+│   ├── main/
+│   ├── optimization/
+│   │   └── PSO/
+│   ├── battery/
+│   ├── economic/
+│   └── visualization/
+│
+├── results/
+│   └── figures/
+│
+└── CITATION.cff
+```
+
+
 
 **Important:** The main script may depend on the supporting MATLAB functions and input data files. Keep the original repository structure intact when running the project.
 
